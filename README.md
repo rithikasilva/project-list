@@ -1,4 +1,4 @@
-# My-Projects
+# My-Web-Projects
 
 Personal Website: https://rithikasilva.github.io/
 
