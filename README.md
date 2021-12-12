@@ -1,4 +1,4 @@
-# My-Web-Projects
+# Projects You Can See!
 
 Personal Website (WIP): https://rithikasilva.github.io/
 
