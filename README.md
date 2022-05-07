@@ -6,4 +6,4 @@ Blog (WIP): https://rithikasilva.github.io/rs-blog/
 
 Just Weather Web App: https://rithikasilva.github.io/weather-widget/
 
-Jean the Generative Art Bot: https://twitter.com/Jean_G_Art_Bot
+Jean, the Agorithmic Art Bot: https://twitter.com/Jean_G_Art_Bot
